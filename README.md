@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there 👋, I am Keith Austine
 #### I am currently pursuing Informatics & Computer Science at Strathmore University
 I do Web Design and Development. I enjoy learning and writing code using different programming languages. I also enjoy wireframing, ui, ux and design. You can reach me at keithaustine619@gmail.com
@@ -18,7 +18,8 @@ Skills:  HTML / CSS / JS / REACT / JAVA / C++ / FIGMA
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theedxctor&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=theedxctor)  
--->
+
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Developer+%26+Quant+Enthusiast&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
@@ -64,5 +65,6 @@ I am a software developer and Informatics and Computer Science student at Strath
 - 📧 **Direct Contact:** [Your Professional Email Address]
 
 <p align="center">
+-->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
 </p>
