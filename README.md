@@ -1,4 +1,4 @@
-
+<!--
 ### Hi there 👋, I am Keith Austine
 #### I am currently pursuing Informatics & Computer Science at Strathmore University
 I do Web Design and Development. I enjoy learning and writing code using different programming languages. I also enjoy wireframing, ui, ux and design. You can reach me at keithaustine619@gmail.com
@@ -18,8 +18,8 @@ Skills:  HTML / CSS / JS / REACT / JAVA / C++ / FIGMA
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theedxctor&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=theedxctor)  
+-->
 
-<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software+Developer+%26+Quant+Enthusiast&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
@@ -48,21 +48,16 @@ I am a software developer and Informatics and Computer Science student at Strath
 *Note: Replace `YOUR-GITHUB-USERNAME` in the URLs below with your actual GitHub handle to activate the dynamic stats.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theedxctor&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theedxctor&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theedxctor&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 </p>
 
 ---
-
-## Connect With Me
-
-- 💼 **Professional Network:** [LinkedIn Profile URL]
-- 📧 **Direct Contact:** [Your Professional Email Address]
 
 <p align="center">
 -->
